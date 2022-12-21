@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 330,
+    "id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/canvas/",
+    "label" : {
+      "none" : [ "330px-SekienYukionna" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 11,
+              "height" : 14
+            }, {
+              "width" : 21,
+              "height" : 28
+            }, {
+              "width" : 42,
+              "height" : 56
+            }, {
+              "width" : 83,
+              "height" : 112
+            }, {
+              "width" : 165,
+              "height" : 224
+            }, {
+              "width" : 330,
+              "height" : 448
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 330,
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 448
+          } ],
+          "format" : "image/jpeg",
+          "width" : 330,
+          "id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 448
+        },
+        "target" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/canvas/"
+      } ]
+    } ],
+    "height" : 448
+  }, {
     "width" : 435,
     "id" : "https://Maeva-Nguyen.github.io/IIIF/images/Suuhi_Yuki-onna/canvas/",
     "label" : {
