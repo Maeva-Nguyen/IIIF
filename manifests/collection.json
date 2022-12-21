@@ -1,0 +1,13 @@
+{
+  "id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Maeva-Nguyen/IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json",
+    "label" : "IIIF_project_TNAH"
+  } ]
+}
