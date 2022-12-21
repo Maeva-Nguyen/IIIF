@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "IIIF_project_TNAH",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://363be742-a027-4e6c-a111-e4b2d4230e85",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://e46334d6-6c09-4a9a-a2e8-2770b0c82291",
+      "@type" : "sc:Canvas",
+      "label" : "Yuki-onna par Sawaki Suushi",
+      "height" : 495,
+      "width" : 435,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b22d270e-a824-4dc6-9dbb-df4fcc2b88fb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/Suuhi_Yuki-onna/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/Suuhi_Yuki-onna",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 495,
+          "width" : 435
+        },
+        "on" : "http://e46334d6-6c09-4a9a-a2e8-2770b0c82291"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://49589a94-3e8f-453f-86d5-70b57e36e8ab",
+      "@type" : "sc:Canvas",
+      "label" : "Yuki-onna par Toriyama Sekien",
+      "height" : 448,
+      "width" : 330,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3862f55a-411e-4b7b-8a90-c1c5d5ac1f69",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/330px-SekienYukionna",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 448,
+          "width" : 330
+        },
+        "on" : "http://49589a94-3e8f-453f-86d5-70b57e36e8ab"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bf5aa248-260d-47f1-a149-cb439d024cde",
+      "@type" : "sc:Canvas",
+      "label" : "Yuki-onna par Hélène Canac (1)",
+      "height" : 1638,
+      "width" : 2831,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://91f55e88-9292-466f-90ff-d25f288461a1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1638,
+          "width" : 2831
+        },
+        "on" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d",
+      "@type" : "sc:Canvas",
+      "label" : "Yuki-onna par Hélène Canac (2)",
+      "height" : 1638,
+      "width" : 2129,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7c2cf257-023e-4598-b227-415df71622c9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221204_140908/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221204_140908",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1638,
+          "width" : 2129
+        },
+        "on" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
