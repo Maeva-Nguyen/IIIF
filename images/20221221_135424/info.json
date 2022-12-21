@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 89,
+    "height" : 52
+  }, {
+    "width" : 177,
+    "height" : 103
+  }, {
+    "width" : 354,
+    "height" : 205
+  }, {
+    "width" : 708,
+    "height" : 410
+  }, {
+    "width" : 1416,
+    "height" : 819
+  }, {
+    "width" : 2831,
+    "height" : 1638
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2831,
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1638
+}
