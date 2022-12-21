@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 14,
+    "height" : 16
+  }, {
+    "width" : 28,
+    "height" : 31
+  }, {
+    "width" : 55,
+    "height" : 62
+  }, {
+    "width" : 109,
+    "height" : 124
+  }, {
+    "width" : 218,
+    "height" : 248
+  }, {
+    "width" : 435,
+    "height" : 495
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 435,
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/Suuhi_Yuki-onna",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 495
+}
