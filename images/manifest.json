@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2831,
+    "id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/canvas/",
+    "label" : {
+      "none" : [ "20221221_135424" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 52
+            }, {
+              "width" : 177,
+              "height" : 103
+            }, {
+              "width" : 354,
+              "height" : 205
+            }, {
+              "width" : 708,
+              "height" : 410
+            }, {
+              "width" : 1416,
+              "height" : 819
+            }, {
+              "width" : 2831,
+              "height" : 1638
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2831,
+            "@id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1638
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2831,
+          "id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1638
+        },
+        "target" : "https://Maeva-Nguyen.github.io/IIIF/images/20221221_135424/canvas/"
+      } ]
+    } ],
+    "height" : 1638
+  }, {
     "width" : 2129,
     "id" : "https://Maeva-Nguyen.github.io/IIIF/images/20221204_140908/canvas/",
     "label" : {
