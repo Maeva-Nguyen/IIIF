@@ -3,6 +3,11 @@
   "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "IIIF_project_TNAH",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/103254453/68186f5112bda540eef76b5c03a81f6a/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Representations of 'Yuki Onna' by several artists.",
@@ -42,6 +47,11 @@
         },
         "on" : "http://e46334d6-6c09-4a9a-a2e8-2770b0c82291"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://maeva-nguyen.github.io/IIIF/annotations/image1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My  annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://49589a94-3e8f-453f-86d5-70b57e36e8ab",
@@ -67,6 +77,11 @@
           "width" : 330
         },
         "on" : "http://49589a94-3e8f-453f-86d5-70b57e36e8ab"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://maeva-nguyen.github.io/IIIF/annotations/image2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My  annotations"
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://maeva-nguyen.github.io/IIIF/annotations/image3.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My  annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d",
@@ -119,6 +139,11 @@
           "width" : 2129
         },
         "on" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://maeva-nguyen.github.io/IIIF/annotations/image4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My  annotations"
       } ],
       "related" : ""
     } ]
