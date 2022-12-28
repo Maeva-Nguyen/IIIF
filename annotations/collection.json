@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Maeva-Nguyen.github.io/IIIF/annotations/image1.json" ],
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/annotations/collection.json",
+  "label" : "All annotations loaded in Maeva-Nguyen/IIIF project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
