@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Her hair color has been softened into a white and blue color palette.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Her hair color has been softened into a white and blue color palette.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:22:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895337572",
+    "dcterms:modified" : "2022-12-24T15:22:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1401,119,893,1210"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.73636,119.25455h446.66364v0h446.66364v605.14545v605.14545h-446.66364h-446.66364v-605.14545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2e93ed01-1a2e-49dc-94a4-a055eb0b095d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "We can't see her feet. Her entire silhouette blends into the snow, making her look even more ghostly.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>We can't see her feet. Her entire silhouette blends into the snow, making her look even more ghostly.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:29:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895793824",
+    "dcterms:modified" : "2022-12-24T15:29:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=828,1285,21,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M839.00909,1316.78182c0,-7.09091 3.54545,-14.18182 10.63636,-21.27273c0,-5.8743 -4.76206,-10.63636 -10.63636,-10.63636c-5.8743,0 -10.63636,4.76206 -10.63636,10.63636c7.09091,7.09091 10.63636,14.18182 10.63636,21.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_3a929b04-fa95-4797-bb7c-edfd9ca1b457\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The white background is covered in snow.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The white background is covered in snow.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:20:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895255911",
+    "dcterms:modified" : "2022-12-24T15:20:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=169,779,21,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M179.55455,810.49091c0,-7.09091 3.54545,-14.18182 10.63636,-21.27273c0,-5.8743 -4.76206,-10.63636 -10.63636,-10.63636c-5.8743,0 -10.63636,4.76206 -10.63636,10.63636c7.09091,7.09091 10.63636,14.18182 10.63636,21.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_138e0e74-3605-4bf2-bcb0-f5b819b0fca6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "She has a more vulnerable posture, huddled under a tree.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>She has a more vulnerable posture, huddled under a tree.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:20:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895221679",
+    "dcterms:modified" : "2022-12-24T15:20:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=548,87,1785,1480"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M547.7,87.34545h892.32727v0h892.32727v740.22727v740.22727h-892.32727h-892.32727v-740.22727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b470c705-7056-4524-b7d7-327362d63995\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Raindrops are falling, announcing the end of the snowstorm usually associated with Yuki-Onna.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Raindrops are falling, announcing the end of the snowstorm usually associated with Yuki-Onna.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:21:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895291374",
+    "dcterms:modified" : "2022-12-24T15:21:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2405,423,191,227"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2404.80909,423.45455h95.66364v0h95.66364v113.74545v113.74545h-95.66364h-95.66364v-113.74545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3a7410c2-372c-47f3-b9cf-2943d30bf01c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "There are cracks in her ice bubble, reinforcing her vulnerable position.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>There are cracks in her ice bubble, reinforcing her vulnerable position.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:23:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895386187",
+    "dcterms:modified" : "2022-12-24T15:23:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1137,525,21,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1147.46364,557.34545c0,-7.09091 3.54545,-14.18182 10.63636,-21.27273c0,-5.8743 -4.76206,-10.63636 -10.63636,-10.63636c-5.8743,0 -10.63636,4.76206 -10.63636,10.63636c7.09091,7.09091 10.63636,14.18182 10.63636,21.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_6ba22bdc-354f-4686-996d-b99c35aae98c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bf5aa248-260d-47f1-a149-cb439d024cde"
+    } ]
+  } ],
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/annotations/image3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
