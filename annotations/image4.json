@@ -1,0 +1,204 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The snow woman is holding her daughter in her arms.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The snow woman is holding her daughter in her arms.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:28:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895716679",
+    "dcterms:modified" : "2022-12-24T15:28:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=887,944,348,220"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M937.93894,975.89757c32.08961,-18.5056 77.35721,-32.28609 122.84417,-32.26962v0v0c45.48696,0.01646 85.11373,12.90789 122.84417,32.26962c37.73043,19.36173 52.39577,48.86527 50.88372,77.90576c-1.51205,29.04049 -19.2015,57.61792 -50.88372,77.90576c-31.68222,20.28784 -77.35721,32.28609 -122.84417,32.26962c-45.48696,-0.01646 -90.78589,-12.04764 -122.84417,-32.26962c-32.05827,-20.22198 -50.87589,-48.63478 -50.88372,-77.90576c-0.00783,-29.27099 18.79411,-59.40016 50.88372,-77.90576z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_0636bac3-e282-49fa-ab6e-662b54e6dc7b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Several animals are represented on this drawing, which wasn't the case in the other pictures where the background was fully white.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Several animals are represented on this drawing, which wasn't the case in the other pictures where the background was fully white.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:28:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895694434",
+    "dcterms:modified" : "2022-12-24T15:28:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1194,423,21,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1204.9,455.23636c0,-7.09091 3.54545,-14.18182 10.63636,-21.27273c0,-5.8743 -4.76206,-10.63636 -10.63636,-10.63636c-5.8743,0 -10.63636,4.76206 -10.63636,10.63636c7.09091,7.09091 10.63636,14.18182 10.63636,21.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_a82a27c7-7c22-4226-86af-c75ccf95c4d5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The presence of nature awakening after the snowstorm.&nbsp;\nThis is a free interpretation of what could happend after the myth. (Yuki-Onna abandonned her husband and children after her husband broke a promise). The author created a happy ending and represented a locus amoenus.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The presence of nature awakening after the snowstorm.&nbsp;</p>\n<p>This is a free interpretation of what could happend after the myth. (Yuki-Onna abandonned her husband and children after her husband broke a promise). The author created a happy ending and represented a locus amoenus.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:27:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895642496",
+    "dcterms:modified" : "2022-12-24T15:34:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=486,238,21,32"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M496.51818,270.16364c0,-7.09091 3.54545,-14.18182 10.63636,-21.27274c0,-5.8743 -4.76206,-10.63636 -10.63636,-10.63636c-5.8743,0 -10.63636,4.76206 -10.63636,10.63636c7.09091,7.09091 10.63636,14.18182 10.63636,21.27274z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_9c4228c5-1d27-430d-862d-7ab9e1115878\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.76364\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "There is no more snow hiding her, but steam and water still covering her feet to indicate that she is not human.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>There is no more snow hiding her, but steam and water still covering her feet to indicate that she is not human.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:31:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895880019",
+    "dcterms:modified" : "2022-12-24T15:31:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=719,1422,719,163"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M824.26676,1446.13934c66.38563,-13.69157 160.03331,-23.88721 254.1348,-23.87503v0v0c94.1015,0.01218 176.07968,9.55004 254.1348,23.87503c78.05512,14.32499 108.39415,36.1535 105.26608,57.63942c-3.12807,21.48592 -39.72325,42.62924 -105.26608,57.63942c-65.54283,15.01018 -160.03331,23.88721 -254.1348,23.87503c-94.1015,-0.01218 -187.81401,-8.91358 -254.1348,-23.87503c-66.3208,-14.96145 -105.24987,-35.98297 -105.26608,-57.63942c-0.01621,-21.65646 38.88046,-43.94786 105.26608,-57.63942z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_65b59113-537b-4958-b23a-2ca297dabb6a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A representation of Yuki-Onna after the story of the legend.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A representation of Yuki-Onna after the story of the legend.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:26:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895567876",
+    "dcterms:modified" : "2022-12-24T15:26:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=754,753,540,853"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M754.04545,753.18182h270.1v0h270.1v426.45455v426.45455h-270.1h-270.1v-426.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bd8a3d85-d742-45cd-ba43-62c90a07c227\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A representation of Yuki-Onna's husband.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A representation of Yuki-Onna's husband.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/103254453",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-24T15:26:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1671895600806",
+    "dcterms:modified" : "2022-12-24T15:26:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maeva-Nguyen.github.io/IIIF/manifests/manifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1765,828,349,615"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1764.5,827.63636h174.37273v0h174.37273v307.32727v307.32727h-174.37273h-174.37273v-307.32727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bb45903e-3245-4aee-8b83-78cfb99a5a56\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://14e97ad6-7b4a-4e4e-91d3-52935e9c230d"
+    } ]
+  } ],
+  "@id" : "https://Maeva-Nguyen.github.io/IIIF/annotations/image4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
