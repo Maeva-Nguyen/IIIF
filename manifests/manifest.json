@@ -14,7 +14,7 @@
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "uploaded images from wikipedia and the comic book 'Entre neige et loup'",
+  "attribution" : "uploaded images from wikipedia (one by Sawaki Suushi, 1737 and one by Toriyama Sekien, 1781) and the comic book 'Entre neige et loup' by Hélène Canac and Agnès Domergue",
   "sequences" : [ {
     "@id" : "http://363be742-a027-4e6c-a111-e4b2d4230e85",
     "@type" : "sc:Sequence",
